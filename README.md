@@ -20,6 +20,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+
+## Git
+git clone https://github.com/jianpingcoding/gjp-angular.git
+git add -A && git commit -m "add a new file"
+git push
+
 ## Resources
 [Angular CLI](https://github.com/angular/angular-cli)
 [Angular realword example app](https://github.com/gothinkster/angular-realworld-example-app/tree/master/src/app)
