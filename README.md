@@ -1,4 +1,6 @@
-# Jianping Angular coding
+# UiAppAngular
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
 
@@ -20,12 +22,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Further help
 
-## Git
-git clone https://github.com/jianpingcoding/gjp-angular.git
-git add -A && git commit -m "add a new file"
-git push
-
-## Resources
-[Angular CLI](https://github.com/angular/angular-cli)
-[Angular realword example app](https://github.com/gothinkster/angular-realworld-example-app/tree/master/src/app)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
